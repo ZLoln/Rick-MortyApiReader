@@ -1,0 +1,16 @@
+.basic-btn{
+    width: 150px;
+    height: 50px;
+    margin: 20px;
+    border-radius: 5px;
+    background-color: #84d6aa;
+    color: white;
+    border: none;
+}
+
+.ima{
+    
+    border-radius: 10px;
+    border: 10px solid #84d6aa;
+    margin-bottom: 20px;
+}
