@@ -1,6 +1,6 @@
 # Rick & Morty Api Reader
 
-First proyect reading an Api + testing with React following a guided online class.
+First project reading an Api + testing with React following a guided online class.
 
 ## Available Scripts
 
