@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Rick & Morty Api Reader
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+First proyect reading an Api + testing with React following a guided online class.
 
 ## Available Scripts
 
